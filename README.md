@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/shixiaoyu0216/DNaIR/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/pytorch-1.9.0+cu111-%237732a8)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/pytorch-2.0.1+cu118-%237732a8)](https://pytorch.org/)
 
 This repository contains the official Pytorch implementation for the paper *Relieving Popularity Bias in Interactive Recommendation: A Diversity-Novelty-Aware Reinforcement Learning Approach*. It also contains the a toy dataset of DNaIR: *Movielens-100K*.
 
