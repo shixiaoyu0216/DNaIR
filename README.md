@@ -138,6 +138,6 @@ The following commands only give one example. For more details, please kindly re
 ---
 ## A guide to reproduce the main results of the paper.
 
-You can follow the guide to reproduce the main results of baselines, see [ItemPop](https://recbole.io/docs/user_guide/model/general/pop.html), [DIN](https://recbole.io/docs/user_guide/model/context/din.html), [MF-IPS and DICE](https://github.com/JingsenZhang/Recbole-Debias).
+You can follow the guide to reproduce the main results of baselines, see [ItemPop](https://recbole.io/docs/user_guide/model/general/pop.html), [DIN](https://recbole.io/docs/user_guide/model/context/din.html), [MF-IPS and DICE](https://github.com/JingsenZhang/Recbole-Debias), [C$^2$UCB](https://github.com/YunSeo00/combinatorial_MAB), [FCPO](https://github.com/TobyGE/FCPO).
 
 The details of VirtualTaobao can be referred to [VirtualTaobao](https://github.com/eyounx/VirtualTaobao).
