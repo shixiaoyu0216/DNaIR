@@ -7,7 +7,6 @@
 This repository contains the official Pytorch implementation for the paper *Relieving Popularity Bias in Interactive Recommendation: A Diversity-Novelty-Aware Reinforcement Learning Approach*. It also contains the a toy dataset of DNaIR: *Movielens-100K*.
 
 <img src="figs/Framework.png" alt="Framework" style="zoom:100%;" />
-<img src="figs/ActionGeneration.png" alt="ActionGeneration" style="zoom:90%;" />
 
 More descriptions are available via the [paper](https://dl.acm.org/doi/10.1145/3618107).
 
